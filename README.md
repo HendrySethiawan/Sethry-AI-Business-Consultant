@@ -208,7 +208,7 @@ We welcome contributions! Whether it's improving the prompt engineering, optimiz
 
 ## 📧 Contact
 
-For business inquiries, technical support, or partnership opportunities, please contact us at:
+For business inquiries, technical support, or partnership opportunities, please contact me at:
 **[h.sethiawan@gmail.com]**
 
 ---
