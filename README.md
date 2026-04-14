@@ -214,6 +214,7 @@ For business inquiries, technical support, or partnership opportunities, please 
 ---
 
 <div align="center">
+<b>
 Built with ❤️ for the MSME Community
-
+</b>
 </div>
